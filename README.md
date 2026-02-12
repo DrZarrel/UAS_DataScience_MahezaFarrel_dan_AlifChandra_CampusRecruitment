@@ -45,5 +45,5 @@ Top 5 fitur paling berpengaruh:
 ## 🔗 Link Notebook
 [https://colab.research.google.com/drive/1N9JiXH539WVVwMCRy43ZaGtjK4IFjKED?usp=sharing]
 
-## 📅 Mata Kuliah
+## 📅 Dosen Mata Kuliah Data Science
 Nur Hayati, S.SI., MTI.
